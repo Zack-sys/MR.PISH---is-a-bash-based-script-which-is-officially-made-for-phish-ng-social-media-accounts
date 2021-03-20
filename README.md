@@ -1,6 +1,6 @@
-# MR.PHISH---is-a-bash-based-script-which-is-officially-made-for-phish-ng-social-media-accounts
+### MR.PHISH---is-a-bash-based-script-which-is-officially-made-for-phish-ng-social-media-accounts
 
-* ABOUT TOOL :  
+### ABOUT TOOL :  
 > mrphish is a bash based script which is officially made for phish*ng social media accounts with portforwarding and otp bypassing cntrole. This tool works on both rooted Android device and Non-rooted Android device.  
 
 * AVAILABLE ON :
@@ -13,7 +13,7 @@ Termux
 **`storage 600 MB`**  
 **`ngrok Token`**  
 
-* FEATURES :  
+### FEATURES :  
 [+] 60+ uptodate pages !  
 [+] Updated maintainence !  
 [+] 1 Port Forwarding Option !  
@@ -21,7 +21,7 @@ Termux
 [+] 5+ categories in pages !  
 [+] Easy for Beginners !  
 
-* INSTALLATION [Termux] : 
+### INSTALLATION [Termux] : 
 ``` 
 $ apt-get update -y  
 ```
@@ -64,7 +64,7 @@ $ bash mrphish
 
 > [+]-- Open new session in termux and type tor [+]-- Open second session in termux and execute mrphish tool   
 
-* USAGE OPTIONS [Termux] :  
+### USAGE OPTIONS [Termux] :  
 **`START ATTACK`** :  
 From this option you can start attack and explore available option in tool Type ok in next step.  
 **`DUMPS`** :  
