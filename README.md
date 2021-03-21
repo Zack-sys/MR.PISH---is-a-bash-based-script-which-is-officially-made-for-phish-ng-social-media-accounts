@@ -1,6 +1,6 @@
 ![Screenshot_2021-03-19-21-50-12-12](https://user-images.githubusercontent.com/75029023/111818303-fc005500-8919-11eb-9726-951b4697dc64.jpg)
 
-### MR.PHISH---is-a-bash-based-script-which-is-officially-made-for-phish-ng-social-media-accounts
+### 𝐌𝐫.𝐏𝐡𝐢𝐬𝐡
 
 ### ABOUT TOOL :  
 > mrphish is a bash based script which is officially made for phish*ng social media accounts with portforwarding and otp bypassing cntrole. This tool works on both rooted Android device and Non-rooted Android device.  
